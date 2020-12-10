@@ -1,0 +1,6 @@
+framework module HPCalculator {
+  umbrella header "HPCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}
